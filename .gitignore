@@ -1,54 +1,17 @@
-# 操作系统文件
+# OS generated files
 .DS_Store
-.DS_Store?
-._*
-.Spotlight-V100
-.Trashes
-ehthumbs.db
 Thumbs.db
-*~
 
-# 编辑器文件
-.vscode/
+# Editor directories
 .idea/
+.vscode/
 *.swp
-*.swo
-*~
-.project
-.classpath
-.settings/
 
-# 日志文件
-*.log
-logs/
-*.log.*
+# Build output (如果你以后用 MkDocs)
+site/
 
-# 临时文件
-*.tmp
-*.temp
-.cache/
-
-# 依赖目录
-node_modules/
-vendor/
+# Python (如果你以后安装 MkDocs 插件)
+__pycache__/
+*.py[cod]
 venv/
 env/
-.venv/
-
-# 构建输出
-dist/
-build/
-out/
-target/
-*.class
-*.jar
-*.war
-
-# 环境变量文件
-.env
-.env.local
-.env.*.local
-
-# 其他
-*.bak
-*.backup
