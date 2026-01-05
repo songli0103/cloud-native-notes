@@ -1,0 +1,54 @@
+# 操作系统文件
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*~
+
+# 编辑器文件
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+
+# 日志文件
+*.log
+logs/
+*.log.*
+
+# 临时文件
+*.tmp
+*.temp
+.cache/
+
+# 依赖目录
+node_modules/
+vendor/
+venv/
+env/
+.venv/
+
+# 构建输出
+dist/
+build/
+out/
+target/
+*.class
+*.jar
+*.war
+
+# 环境变量文件
+.env
+.env.local
+.env.*.local
+
+# 其他
+*.bak
+*.backup
